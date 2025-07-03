@@ -1,4 +1,4 @@
-# Sales_insights
+# Sales_insights project
 Interactive Power BI dashboard showcasing sales insights and solutions for a real-world problem faced by Atliq.
 📊 Atliq Sales Insights Dashboard
 This repository showcases a Power BI dashboard developed to uncover actionable sales insights for Atliq, based on real-world sales data extracted using SQL.
